@@ -6,9 +6,12 @@ Welcome to CENTRO. intuitive smart building app for every user
 
 You can find out more on the product microsite https://lightingcontrol.co.uk/centro/
 
-If you need to download a Crestron Home Connector for Cento. 
+If you need to download a Crestron Home Connector for a CENTRO. demo. 
 
-Please go to the release page [Here](https://github.com/LightingControl/Centro./releases/tag/DemoConnector)        ![Demo Status](https://badgen.net/badge/status/Passing/green?icon=azure)
+Please go to the release page [Here](https://github.com/LightingControl/Centro./releases/tag/DemoConnector)        
 
+Crestron Home Connector v1.0.0.0  ![Demo Status](https://badgen.net/badge/status/Passing/green?icon=azure)
+
+CENTRO. Demo Server   ![Demo Status](https://badgen.net/https/lcd-t-media.vercel.app/login)
 
 
