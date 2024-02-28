@@ -10,8 +10,8 @@ If you need to download a Crestron Home Connector for a CENTRO. demo.
 
 Please go to the release page [Here](https://github.com/LightingControl/Centro./releases/tag/DemoConnector)        
 
-Crestron Home Connector v1.0.0.0  ![Demo Status](https://badgen.net/badge/status/Passing/green?icon=azure)
+CENTRO. Crestron Hoem Connector v1.0.0.0  ![Demo Status](https://badgen.net/badge/status/BuildPassing/green?icon=azure)
 
-CENTRO. Demo Server   ![Demo Status](https://badgen.net/https/lcd-t-media.vercel.app/login)
+CENTRO. Demo Server   ![Demo Status](https://badgen.net/badge/status/Live/green?icon=vercel)
 
 
